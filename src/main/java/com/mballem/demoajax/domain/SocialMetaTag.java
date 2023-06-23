@@ -9,6 +9,7 @@ public class SocialMetaTag implements Serializable{
 	private String title;
 	private String url;
 	private String image;
+	private String price;
 	
 	public String getSite() {
 		return site;
@@ -33,6 +34,12 @@ public class SocialMetaTag implements Serializable{
 	}
 	public void setImage(String image) {
 		this.image = image;
+	}
+	public String getPrice() {
+		return price;
+	}
+	public void setPrice(String price) {
+		this.price = price;
 	}
 	@Override
 	public String toString() {
