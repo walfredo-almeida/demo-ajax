@@ -32,9 +32,9 @@ public class DemoAjaxApplication implements CommandLineRunner {
 //		tw
 //		https://www.mobly.com.br/sofa-3-lugares-retratil-e-reclinavel-biarritz-suede-grafite-664194.html?origin=jetmobly		
 //		nenhum
-//		https://www.udemy.com/course/spring-boot-mvc-com-thymeleaf/
-//		https://www.americanas.com.br/produto/2520110545?chave=hm_megaoferta_1_160623_2520110545&offerId=5fc2b70c762ff3671956670c
-//		https://www.udemy.com/course/java-curso-completo/
+//		https://www.udemy.com/course/spring-boot-mvc-com-thymeleaf/    //ops algo deu errado 500
+//		https://www.americanas.com.br/produto/2520110545?chave=hm_megaoferta_1_160623_2520110545&offerId=5fc2b70c762ff3671956670c   //nenhum variavel encontrada  403
+//		https://www.udemy.com/course/java-curso-completo/   //ops algo erro 500 
 //		https://shopee.com.br/Alicate-Inser%C3%A7%C3%A3o-Punch-Down-Rj11-Rj12-Push-Redes-Patch-Panel-i.393140570.19760203015?sp_atk=12a24d74-4091-4dd2-ac5f-33911e4fab8f&xptdk=12a24d74-4091-4dd2-ac5f-33911e4fab8f
 	}
 	
