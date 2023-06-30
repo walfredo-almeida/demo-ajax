@@ -26,6 +26,7 @@ public class DemoAjaxApplication implements CommandLineRunner {
 //		os 2
 //		https://www.nuuvem.com/br-pt/item/lego-star-wars-the-skywalker-saga
 //		https://naturalmed.com.br/produto/colagentek-colageno-tipo-ii-60-caps-vitafor/
+//		https://www.tudocelular.com/android/noticias/n202976/alerta-de-oferta-poco-x5-5g.html
 //		og
 //	     https://www.boticario.com.br/combo-presente-dia-dos-namorados-egeo-dolce-desodorante-colonia-90ml-desodorante-aerossol-75g/
 //		https://www.mobly.com.br/cadeira-gamer-olympians-hades-preta-e-vermelha-881506.html#a=3|p=43|pn=1|t=campanha-20230530-nym6qyg|b=1|s=0
