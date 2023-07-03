@@ -31,6 +31,7 @@ public class DemoAjaxApplication implements CommandLineRunner {
 //	     https://www.boticario.com.br/combo-presente-dia-dos-namorados-egeo-dolce-desodorante-colonia-90ml-desodorante-aerossol-75g/
 //		https://www.mobly.com.br/cadeira-gamer-olympians-hades-preta-e-vermelha-881506.html#a=3|p=43|pn=1|t=campanha-20230530-nym6qyg|b=1|s=0
 //		tw
+//		https://www.walmart.com/ip/Onn-50-4K-Roku-TV-with-onn-3-1-Atmos-Soundbar-with-Wireless-Subwoofer-37/1874958245?athcpid=1874958245&athpgid=AthenaItempage&athcgid=null&athznid=PWSMT&athieid=v0&athstid=CS020&athguid=ZF9tsmT5RsI52L9g6CTrsZrgUdJYhCHQ6E5v&athancid=1226534303&athena=true&athbdg=L1103
 //		https://www.mobly.com.br/sofa-3-lugares-retratil-e-reclinavel-biarritz-suede-grafite-664194.html?origin=jetmobly		
 //		nenhum
 //		https://www.udemy.com/course/spring-boot-mvc-com-thymeleaf/    //ops algo deu errado 500
