@@ -20,11 +20,11 @@ public class Promocao implements Serializable{
 	private Long id;
 	
 	@NotBlank(message = "Um título é requerido")
-	@Column(name ="titulo", nullable = false)
+	@Column(name ="titulo", nullable = false, length =500)
 	private String titulo;
 	
 	@NotBlank(message = "O link da promoção é requerido")
-	@Column(name="linkPromocao", nullable = false)
+	@Column(name="linkPromocao", nullable = false, length =500)
 	private String linkPromocao;
 	
 	@Column(name="site_promocao", nullable = false)
@@ -33,7 +33,7 @@ public class Promocao implements Serializable{
 	@Column(name="descricao")
 	private String descricao;
 	
-	@Column(name="link_imagem", nullable = false)
+	@Column(name="link_imagem", nullable = false, length =500)
 	private String linkImagem;
 	
 	@NotNull(message = "O preço é requerido")
